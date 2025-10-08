@@ -1,0 +1,39 @@
+[
+  {
+    "Title": "Finance System (Enterprise ERP)",
+    "Technologies": [ "C#", "VB.Net", "ASP.NET", "ASP.NET Core", "Blazor", "SQL Server", "DevExpress", "IIS" ],
+    "Description": [
+      "Led development and customization of ERP Finance modules (GL, AR, AP) using ASP.NET Core, Blazor, and SQL Server, ensuring accurate financial operations and compliance.",
+      "Optimized SQL objects (procedures, functions, indexes) and reporting workflows, reducing report generation times by 40% and improving system performance.",
+      "Automated workflows and notifications, minimizing manual processing errors and increasing user efficiency across finance teams.",
+      "Mentored junior developers, performed QC reviews, and delivered training sessions to scale delivery capacity and maintain high system reliability."
+    ]
+  },
+  {
+    "Title": "General Ledger Module – Government Taxation System (Malaysia)",
+    "Technologies": [ "C#", "VB.Net", "ASP.NET MVC", "Blazor", "SQL Server", "APIs", "DevExpress Reports" ],
+    "Description": [
+      "Engineered General Ledger workflows for Malaysia Government’s LVG taxation system, ensuring compliance with strict financial regulations.",
+      "Integrated ERP modules with Malaysia’s e-Invoice API to automate tax reporting and maintain compliance with government mandates.",
+      "Developed reports using DevExpress Report Services to provide real-time financial insights for auditors and stakeholders.",
+      "Collaborated with cross-border teams in Myanmar and Malaysia to align system flows with business and legal requirements."
+    ]
+
+  },
+  {
+    "Title": "Fleet Management System",
+    "Technologies": [ "C#", "VB.Net", "ASP.NET MVC", "ASP.NET", "JavaScript", "CSS", "SQL Server" ],
+    "Description": [
+      "Internal web-based platform to manage fleet, warehouse, and production workflows.",
+      "End-to-end lot tracking with SQL-backed traceability and audit capabilities.",
+      "Mobile-friendly interface for warehouse operators, replacing the legacy Android-native app."
+    ]
+  },
+  {
+    "Title": "Driver Web Application",
+    "Technologies": [ "C#", "ASP.NET MVC", "JavaScript", "CSS", "SQL Server" ],
+    "Description": [     
+      "Mobile-friendly interface for warehouse operators, replacing the legacy Android-native app."
+    ]
+  }
+]

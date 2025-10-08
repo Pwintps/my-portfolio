@@ -1,0 +1,32 @@
+/* /Pages/Home.razor.rz.scp.css */
+#liveTextContainer[b-brkfagpffy], .abt-container[b-brkfagpffy] {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    height: 30px;
+}
+
+#liveText[b-brkfagpffy] {
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    white-space: nowrap;
+    /* text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff; */
+}
+
+.abt-session[b-brkfagpffy] {
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    white-space: nowrap;
+    /* text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff; */
+}
+
+#typingEffect1[b-brkfagpffy], #typingEffect2[b-brkfagpffy] {
+    font-size: 32px;
+    font-weight: bold;
+    display: inline-block;
+    white-space: nowrap;
+    /* text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff; */
+}

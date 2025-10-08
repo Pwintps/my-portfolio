@@ -1,0 +1,43 @@
+[
+  {
+    "Company": "StarVision Information Technology Pte. Ltd",
+    "Role": "Senior Application Engineer & Project Lead",
+    "Period": "Oct 2017 – Dec 2023 | Yangon, Myanmar",
+    "Technologies": [ "C#", "VB.Net", "ASP.NET", "ASP.NET Core", "Blazor", "SQL Server", "DevExpress", "IIS" ],
+    "Responsibilities": [
+      "Led a development team of 5+, overseeing ERP and HRMS projects from design to deployment.",
+      "Optimized financial modules (AR, AP, GL) resulting in faster report generation and improved accuracy.",
+      "Trained junior developers and performed code reviews to ensure maintainable and scalable systems.",
+      "Designed and fine-tuned SQL database objects, boosting performance for high-volume ERP data.",
+      "Collaborated with consultants and clients to translate business requirements into technical solutions."
+    ]
+  },
+  {
+    "Company": "StarVision Information Technology Sdn Bhd",
+    "Role": "Project In Charge & Software Developer",
+    "Period": "Jan 2024 – Dec 2024 | Petaling Jaya, Malaysia",
+    "Technologies": ["C#","VB.Net", "ASP.NET", "ASP.NET MVC", "Blazor", "SQL Server", "DevExpress", "IIS" ],
+    "Responsibilities": [
+      "Led GL module customization for Malaysia Government’s Low Value Goods taxation system.",
+      "Integrated Malaysia’s E-Invoice API ensuring compliance with national standards.",
+      "Authored functional/system specifications (FSD, SDS) for clearer communication and reduced errors.",
+      "Enhanced DevExpress reports, improving financial data presentation for decision-making.",
+      "Collaborated cross-functionally with consultants and testers to deliver stable releases under tight deadlines."
+    ]
+  },
+  {
+    "Company": "Gussmann Technologies Sdn Bhd",
+    "Role": "Software Developer",
+    "Period": "Feb 2025 – Present",
+    "Technologies": [ "C#", "VB.Net", "ASP.NET MVC", "JavaScript", "CSS", "SQL Server" ],
+    "Responsibilities": [
+      "Designed and optimized SQL schema, stored procedures, and auditing logic to support warehouse traceability.",
+      "Developed ASP.NET MVC UI components with JavaScript for responsive data entry and tracking.",
+      "Migrated Android-native workflows into a cross-device mobile web app, enhancing usability for operators.",
+      "Contributed to the end-to-end delivery of the Fleet & Lot Management System, ensuring reliability and scalability in production."
+    ]
+
+  }
+  
+
+]
